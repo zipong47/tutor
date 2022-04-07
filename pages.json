@@ -25,7 +25,7 @@
   "globalStyle": {
     "navigationBarTextStyle": "white",
     "navigationBarTitleText": "我的家教",
-    "navigationBarBackgroundColor": "#C00000",
+    "navigationBarBackgroundColor": "#aa557f",
     "backgroundColor": "#FFFFFF"
   },
   "tabBar": {
